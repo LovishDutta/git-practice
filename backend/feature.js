@@ -1,3 +1,3 @@
-let a = 5
-let b = 10
-let c = 10
+let a = 0
+let b = 0
+let c = 0
